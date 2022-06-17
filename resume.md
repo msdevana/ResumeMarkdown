@@ -21,7 +21,7 @@ author-meta: "Manish Devana"
 
 ## Objectives
 
-Seeking opportunities for marine or climate related data analysis , applications of machine learning to climate and environment issues, and green technology development in fast paced and innovative teams. Skilled in problem solving, geospatial and time series data analysis across multiple languages, experienced in field work at sea, collaborative analysis, communication of technical and research material to a range of audiences.
+Seeking opportunities for marine or climate related data analysis , applications of machine learning to climate and environment issues, and green technology development in fast paced and innovative teams. Skilled in problem solving, geospatial and time series data analysis across multiple languages, experienced in field work at sea, collaborative analysis, writing scientific publications, and communication of technical and research material to a range of audiences.
 
 ## Current Research Interests
 
