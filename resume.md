@@ -21,6 +21,8 @@ author-meta: "Manish Devana"
 
 ## Objectives
 
+Seeking opportunities for marine or climate related data analysis or technology development in fast paced and innovative settings. Skilled in problem solving, geospatial and time series data analysis across multiple languages, experienced in field work at sea, and can communicate technical and research material to a range of audiences.
+
 ## Current Research Interests
 
 I currently study deep ocean circulation in the North Atlantic Program as a PhD student under the Overturning in the Subpolar North Atlantic Program (OSNAP). My research examines abyssal flows across a wide range of physical and temporal scales to understand how flow varies in strength, position, and its hydrographic properties.
