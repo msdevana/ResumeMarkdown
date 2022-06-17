@@ -64,7 +64,9 @@ template {
  */
 
 html {
-    font-family: sans-serif;
+    font-family: "Clear Sans", sans-serif;
+    /* font-weight: 100; */
+    /* font:Lora; */
     /* 1 */
     -ms-text-size-adjust: 100%;
     /* 2 */
@@ -121,6 +123,7 @@ a:hover {
 h1 {
     font-size: 2em;
     margin: 0.67em 0;
+    margin-bottom: .2em;
 }
 
 /**
@@ -435,20 +438,26 @@ table {
 
 /* Github css */
 
-
-@font-face {
+/* @font-face {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 100;
     src: local('Roboto Thin'), local('Roboto-Thin'), url(http://themes.googleusercontent.com/static/fonts/roboto/v10/vzIUHo9z-oJ4WgkpPOtg1_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
-}
+} */
+/* 
+@font-face {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Lora Regular'), local('Lora-Regular'), url(Lora/static/) format('tiff');
+} */
 
 
 html,
 body {
     margin: auto;
-    padding-right: 1em;
-    padding-left: 1em;
+    padding-right: 0em;
+    padding-left: 0em;
     max-width: 64em;
     color: black;
 }
@@ -459,7 +468,7 @@ body {
 }
 
 body {
-    font: 13.34pxHelvetica;
+    font: 13.34pxLora;
     -webkit-font-smoothing: subpixel-antialiased;
     line-height: 1.4;
     padding: 3px;
@@ -544,7 +553,8 @@ h6 {
 h1 {
     font-size: 33px;
     color: #000;
-    text-align: center
+    text-align: center;
+    margin-bottom: .01em;
 }
 
 h2 {
@@ -781,7 +791,7 @@ pre tt {
 }
 
 .poetry pre {
-    font-family: Georgia, Garamond, serif !important;
+    font-family: Lora, serif !important;
     font-style: italic;
     font-size: 110% !important;
     line-height: 1.6em;
@@ -1193,4 +1203,19 @@ sub {
     }
 
   
+}
+
+.keywords{
+    margin: 0;
+    font-size: 24;
+    text-align:center;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+   }
+
+.contact {
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
 }
