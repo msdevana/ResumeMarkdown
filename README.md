@@ -1,4 +1,5 @@
 # Markdown Resume 
+**(Borrowed from @vidluther who made this super helpful resume template)** 
 
 This repo allows you to build/maintain your resume in a Markdown file, and then publish it into an HTML or PDF file. 
 Technically, you could output it into any file you wanted with pandoc, or wkhtmltopdf, but I wasn't interested in those scenarios so I explore those avenues. 
@@ -57,7 +58,3 @@ If you want to convert from HTML to PDF for some reason, you'll need to add a sw
 wkhtmltopdf --enable-local-file-access resume.html resume.pdf
 ```
 
-# TODO 
- - [x] [github action](https://github.com/pandoc/pandoc-action-example) will run and create the HTML and PDF file automatically. 
- - [ ] the Author field in the PDF, it seems to not work when the pdf-engine is set to wkhtmltopdf 
- - [ ] make a release or a package? 
