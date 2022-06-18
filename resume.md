@@ -59,6 +59,8 @@ I currently study deep ocean circulation in the North Atlantic Program as a PhD 
 4. Javascript (Proficient)
 5. Proficient in Linux operating systems (experience with CentOs, Debian, and Ubuntu)
 6. HTML & CSS (Proficient) - Experience responsive designing web pages and markdown documentation
+7. Microsoft Word, Excel, Publisher (Strong)
+8. Adobe Creative Cloud tools (Photoshop, Illustrator, Premiere) (Proficient)
 
 ## Fieldwork Experience
 
@@ -78,12 +80,12 @@ I currently study deep ocean circulation in the North Atlantic Program as a PhD 
 
 ## Seminars and Conference Presentations
 
-1. Geophysical Fluid Dynamics Summer School Student Seminar- _2019_
-2. American Geophysical Union Fall Meeting 2019: **Rapid Freshening of the Iceland Scotland Overflow Driven by Entrainment** - _2019_
-3. Ocean Sciences Fall Meeting 2020: **Rapid Freshening of the Iceland Scotland Overflow Driven By Entrainment** - _2019_
-4. Ocean Sciences Fall Meeting 2022: **Variability of the Iceland Scotland Overflow** - _2022_
-5. U.S. Atlantic Meridional Overturning Circulation Science Team Meeting: **Rapid Freshening of the Iceland Scotland Overflow Driven By Entrainment** - _2022_
-6. American Meteorological Society Atmospheric and Oceanic Fluid Dynamics 2022: **Boundary Layer Dynamics in Bottom Intensified Flow along the Reykjanes Ridge** - _2022_
+1. Geophysical Fluid Dynamics Summer School Student Seminar [__2019__]{style="float:right"}
+2. American Geophysical Union Fall Meeting 2019: **Rapid Freshening of the Iceland Scotland Overflow Driven by Entrainment** [__2019__]{style="float:right"}
+3. Ocean Sciences Fall Meeting 2020: **Rapid Freshening of the Iceland Scotland Overflow Driven By Entrainment** [__2019__]{style="float:right: white-space:nowrap;"}
+4. Ocean Sciences Fall Meeting 2022: **Variability of the Iceland Scotland Overflow** [__2022__]{style="float:right"}
+5. U.S. Atlantic Meridional Overturning Circulation Science Team Meeting: **Rapid Freshening of the Iceland Scotland Overflow Driven By Entrainment** [__2022__]{style="float:right"}
+6. American Meteorological Society Atmospheric and Oceanic Fluid Dynamics 2022: **Boundary Layer Dynamics in Bottom Intensified Flow along the Reykjanes Ridge** [__2022__]{style="float:right"}
 
 ## Education
 

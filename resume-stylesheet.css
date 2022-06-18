@@ -72,6 +72,7 @@ html {
     /* 2 */
     -webkit-text-size-adjust: 100%;
     /* 2 */
+    /* height: 0%; */
 }
 
 /**
@@ -79,6 +80,8 @@ html {
  */
 
 body {
+    /* height set to zero removes blank pages at the end */
+    height:0; 
     margin: 0;
 }
 
@@ -470,7 +473,7 @@ body {
 body {
     font: 13.34pxLora;
     -webkit-font-smoothing: subpixel-antialiased;
-    line-height: 1.4;
+    line-height: 1.3;
     padding: 3px;
     background: #fff;
     border-radius: 3px;
@@ -479,7 +482,7 @@ body {
 }
 
 p {
-    margin: 1em 0
+    margin: 1.5cm 
 }
 
 a {
@@ -492,7 +495,7 @@ body {
     padding: 30px;
     margin: 15px;
     font-size: 14px;
-    line-height: 1.6
+    line-height: 1.45
 }
 
 body>*:first-child {
@@ -515,8 +518,8 @@ ol {
             list-style-position: none;
             position: relative;
             list-style: none;
-            margin-top: 5px;
-            margin-bottom: 5px;
+            margin-top: 3px;
+            margin-bottom: 3px;
         }
     
         ul>li {
